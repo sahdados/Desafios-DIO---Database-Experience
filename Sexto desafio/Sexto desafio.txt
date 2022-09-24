@@ -1,0 +1,17 @@
+SQL - São bancos de dados relacionais - Possuem vários tipos de sistema de gerenciamento e cada um com sua peculiaridade como por exemplo valores financeiros, tipos de volumes a serem tratados e armazenados.  
+
+Os dados armazenados e tratados são em formato de tabelas, colunas e linhas que se relacionam, de forma mais fixa. São definidas as relações através de primary key e foreing key, definido os tipos de armazenamento, ex: data, número inteirou, número no padrão de valores e as queries para realizações de consultas.  
+
+  
+
+NoSQL - Foram definidos como Não relacionais, mas a diferença é a flexibilidade na forma de armazenar e gerenciar os dados. 
+
+São 4 tipos de bancos utilizado no NOSQL. 
+
+Colunas - São armazenadas no formato de linhas particulares de tabela no disco, podendo suportar várias linhas e colunas. Também permitem sub-colunas. 
+
+Grafos - Os dados são armazenados na forma de grafos (vértices e arestas). 
+
+Chave- valor - pois o conceito dele é que um determinado valor seja acessado através de uma chave identificadora única. 
+
+Documentos - Nesse modelo não é necessário ter qualquer estrutura pré-definida, são capazes de realizar agrupamentos de documentos e relacionar informações de formatos diferentes sem qualquer tipo de burocracia. 
